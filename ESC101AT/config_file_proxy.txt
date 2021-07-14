@@ -1,0 +1,9 @@
+{
+Port : 7000 ;
+Logfile : log.txt ;
+Log_Headers : {Host,Referer,Accept};
+Proxy : 142.250.193.142:80;
+Proxy_Headers : {Host:142.250.193.142};
+Response_Headers : {header2:new_value};
+}
+
