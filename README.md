@@ -1,4 +1,4 @@
-# NGNIX-based-Server-in-C
+# NGNIX-based-Web-Server-in-C
 
 This is a simple nginx type server in C language, which hosts a simple sign-in page, and also implements additional features like reverse-proxy and multi-threading.
 
